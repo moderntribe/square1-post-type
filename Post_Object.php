@@ -4,8 +4,8 @@
 namespace Tribe\Libs\Post_Type;
 
 
-use Tribe\Libs\Post_Meta\Meta_Map;
-use Tribe\Libs\Post_Meta\Meta_Repository;
+use Tribe\Libs\Object_Meta\Meta_Map;
+use Tribe\Libs\Object_Meta\Meta_Repository;
 
 /**
  * Class Post_Object
